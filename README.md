@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/kimon0202/stats-previw-card)
-- Live Site URL: [](https://kimon0202.github.io/stats-previw-card/index.html)
+- [Solution URL](https://github.com/kimon0202/stats-previw-card)
+- [Live Site URL](https://kimon0202.github.io/stats-previw-card/index.html)
 
 ## My process
 
